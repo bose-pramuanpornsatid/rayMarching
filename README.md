@@ -7,12 +7,12 @@
 ### MacOS(_menv)
 1. python3 -m venv _menv
 2. source _menv/bin/activate
-3. pip install -r requirements.txt
+3. pip install -U -r requirements.txt
 
 ### Windows(_wenv)
-1. python3 -m venv _menv
+1. python3 -m venv _wenv
 2. _wenv\Scripts\activate.bat
-3. pip install -r requirements.txt
+3. pip install -U -r requirements.txt
 
 ### Installing Packages
 1. pip install ......
