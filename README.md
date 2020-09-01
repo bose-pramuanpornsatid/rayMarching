@@ -11,7 +11,7 @@
 
 ### Windows(_wenv)
 1. python3 -m venv _menv
-2. source _wenv\Scripts\activate.bat
+2. _wenv\Scripts\activate.bat
 3. pip install -r requirements.txt
 
 ### Installing Packages
